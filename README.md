@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # DevExtreme TextArea - Getting Started 
 
-This repository stores the code examples of the TextArea component for the [Getting Started with TextArea](https://js.devexpress.com/Documentation/Guide/UI_Components/TextArea/Getting_Started_with_TextArea/) tutorial. This tutorial explains how to create a TextArea, specify value and label, and configure TextArea size.
+This repository stores the code examples of the TextArea component for the [Getting Started with TextArea](https://js.devexpress.com/Documentation/Guide/UI_Components/TextArea/Getting_Started_with_TextArea/) tutorial. This tutorial explains how to create a TextArea, specify its value and label, and configure the TextArea size.
 
 <div align="center"><img src="./textarea.png" /></div>
 
