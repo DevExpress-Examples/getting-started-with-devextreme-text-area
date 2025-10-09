@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import HomeContent from '../components/HomeContent.vue';
+import TextArea from '../components/TextArea.vue';
 </script>
 
 <template>
-  <HomeContent text="Count"/>
+  <TextArea/>
 </template>
 
