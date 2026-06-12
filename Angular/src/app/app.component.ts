@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ChangeDetectionStrategy } from '@angular/core';
 import notify from 'devextreme/ui/notify';
 
 import { DxTextAreaModule } from 'devextreme-angular/ui/text-area';
@@ -7,6 +7,7 @@ import { DxTextAreaModule } from 'devextreme-angular/ui/text-area';
     selector: 'app-root',
     imports: [DxTextAreaModule],
     templateUrl: './app.component.html',
+    changeDetection: ChangeDetectionStrategy.Eager,
     styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
